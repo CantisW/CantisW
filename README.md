@@ -2,7 +2,7 @@
 
 [![CantisW's Github Stats](https://github-readme-stats.vercel.app/api?username=CantisW&&show_icons=true&title_color=ffffff&icon_color=26dafd&text_color=daf7dc&bg_color=151515)](https://github.com/CantisW)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CantisW&langs_count=10&title_color=ffffff&icon_color=26dafd&text_color=daf7dc&bg_color=151515)](https://github.com/CantisW)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CantisW&langs_count=10&layout=compact&title_color=ffffff&icon_color=26dafd&text_color=daf7dc&bg_color=151515)](https://github.com/CantisW)
 
 # Who I Am
 
