@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![CantisW's Github Stats](https://github-readme-stats.vercel.app/api?username=CantisW&&show_icons=true&title_color=ffffff&icon_color=26dafd&text_color=daf7dc&bg_color=151515)](https://github.com/CantisW)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CantisW&title_color=ffffff&icon_color=26dafd&text_color=daf7dc&bg_color=151515)](https://github.com/CantisW)
+
+# Who I Am
+
+I am a beginner currently focusing on learning more TypeScript and React.
+
 <!--
 **CantisW/CantisW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
